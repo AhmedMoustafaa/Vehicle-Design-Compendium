@@ -1,3 +1,5 @@
+These are important topics in the vehicle design that are good to know
+
 ## Building Blocks
 - Angles, Axes, and Different coordinate systems
 	- Body Axis

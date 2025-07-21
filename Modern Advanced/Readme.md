@@ -1,5 +1,5 @@
 # Modern, Advanced References
-## 1. Small Unmanned Fixed-Wing Aircraft Design:  A Practical Approach
+## [1. Small Unmanned Fixed-Wing Aircraft Design:  A Practical Approach](Small%20Unmanned%20Fixed-Wing%20Aircraft%20Design.%20%20A%20Practical%20Approach%20(Andrew%20J.%20Keane,%20Andras%20Sobester%20etc.).pdf)
 Author: Andrew J. Keane & Andras Sobester
 >Summary: This book -as the name suggests- is focused on UAVs primarily and thus the issue of scale difference that usually exists when reading from other sources is not present. it covers a lot of topics, starting from explaining each subsystem of the airplane, passing by the design process, and finally the manufacturing and testing.
 
@@ -15,7 +15,7 @@ Part 3 of the book, which covers the design process is very well written and cov
 - Chapter 15: Weight and Center of Gravity Control
 
 ---
-## 2. Advanced Aircraft Design Conceptual Design, Analysis and Optimization of Subsonic Civil Airplanes
+## [2. Advanced Aircraft Design Conceptual Design, Analysis and Optimization of Subsonic Civil Airplanes](./Aircraft%20Aerodynamic%20Design%20Geometry%20and%20Optimization%20(András%20Sóbester,%20Alexander%20I%20J%20Forrester).pdf)
 Author: Egbert Torenbeek
 >Summary:
 
