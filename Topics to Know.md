@@ -1,0 +1,112 @@
+## Building Blocks
+- Angles, Axes, and Different coordinate systems
+	- Body Axis
+	- Wind Axis
+	- Stability Axis
+- Fundamentals of Aircraft Components
+	- The Anatomy of the Airfoil
+		- How each geometric parameter affects the performance
+			- Maximum Camber and its position
+			- Maximum Thickness and its position
+			- LE Radius
+			- TE sharpness
+		- Airfoil Families
+	- The Anatomy of the Wing
+		- Planform Parameters and their effects (Variables present in the 2d projection)
+			- AR, TR, $\Lambda$, S
+		- Three-Dimensional Wing Parameters
+			- Twist, Dihedral
+	- The Anatomy of the Tail
+	- Lift Enhancement Devices
+- Aerodynamic Concepts
+	- How Lift is Created
+		- effect of AoA, Gemoetry (Camber) on Lift
+	- Drag Types
+	- Drag Modeling: Different Methods to model the drag polar (Cd as a f(Cl))
+	- Flow Types (Laminar & Turbulence Characteristics
+	- Aerodynamic Center
+	- Center of pressure
+	- Boundary Layer: Causes, Types, Effects
+	- Transition Point
+		- Ways to predict it and how is it modeled in Xfoil
+	- Separation: (Causes, Types, Effects)
+- Performance Concepts:
+	- Fundamental design and performance Parameters:
+		- W/S, T/W, Drag Polar, L\D
+		- n (Load Factor)
+		- Rate of Climb
+		- Range
+		- Endurance
+		- Maximum $(\frac{CL}{CD})_{max}$ , $(\frac{CL^{3/2}}{CD})_{max}$  , $(\frac{CL^{1/2}}{CD})_{max}$
+	- Propulsion System Modeling
+		- Effect of Battery Voltage, and Capacity
+		- Effect of Motor Kv, and Kt
+		- Effect of Propeller Diameter, Pitch, and Number of Blades
+	- Thrust Available vs Thrust Required
+	- Maximum Velocity
+	- Minimum Velocity
+	- CL and Velocity Corresponding to Maximum Range and Maximum Endurance
+- Aerodynamic Analysis: At least know how each one model the airfoil, Accuracy compared to Experimental, and ***Limitations***
+	- Airfoil Analysis Theories
+		- Thin Airfoil Theory
+		- 2D Panel Theory
+		- Integrated Boundary Layer
+	- Wing/Airplane Analysis Theories
+		- Lifting Line Theory
+		- Vortex Lattice Methods
+		- 3D Panel Theory
+- Performance Analysis: `Have an idea about which paramters are present in each Equation`
+	- Steady Flight Performance:
+		- Cruise Performance
+			- Range Analysis
+			- Endurance Analysis
+		- Climb Performance
+			- Rate of Climb
+			- Time to Climb
+			- Service Ceiling and Absolute Ceiling
+	- Accelerated Flight Performance
+		- Take-off Analysis
+			- Ground Run
+		- Level Turn Analysis
+			- Minimum Turn Radius
+			- Maximum Turn Rate
+		- Landing Analysis
+			- Ground Run
+	- How can we use these to simulate the airplane performance numerically (Approximated solutions to IVPs differential equations)
+		- Runge-Kutta Methods  (4th order version is implemented in the sizer)
+		- Euler Methods
+- Flight Mechanics
+	- Balance & Stability
+	- Control surface effects on trim
+	- Airplane components contribution to stability
+	- dynamic stability modes
+		- which modes are vital to our scale
+	- handling quality levels 
+
+## Big Picture Design
+
+- Pre-conceptual Phase
+	- Mission Analysis
+	- Specifying Constraints
+	- Similar UAVs surveying, (market, historical, ..etc)
+- Conceptual Design Phase
+	- Qualitative & Quantitative Design Path Definition
+		- Identify key high-level (e.g. W/S or T/W) design parameters that represent differences across these paths.
+	- Design Space Exploration
+		- Modeling the design space in a multi-disciplinary fashion by connecting the design parameters to form meaningful carpet plots
+		- Applying constrains to the design space
+		- Scoring each design point to have a prediction of the score for different design paths
+	- Applying Sensitivity Analyses
+		- This is not only applied to the mission score, but can be used whenever we have uncertainties present. (for example, we can apply sensitivity analysis for a matching plot problem)
+	- Informed Configuration Selection
+		- Based on the previous analysis with manufacturing, time, and economical costs in mind
+- Preliminary Design Phase
+	- Wing Design
+		- How to select a reasonable-envisioned values for the planform parameters like AR, TR
+	- Airfoil Selection
+		- Selecting an airfoil in a systematic manner reflecting your design philosophy
+	- Stability Surfaces Sizing
+	- Control Surfaces Sizing
+	- Flight Envelope Analyses
+	- Performance under wind conditions
+- Detailed Design
