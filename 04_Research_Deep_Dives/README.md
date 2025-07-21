@@ -8,7 +8,10 @@ This section of the Fixed-Wing UAV Design Compendium is dedicated to in-depth ex
 ### [Aero-structural Optimization](./Aero-struct)
 
 This area covers the intricate coupling between aerodynamic forces and structural behavior, often involving optimization techniques to achieve integrated design goals.
-* **Software implementations**: This includes the [OpenAeroStruct Examples](https://github.com/mdolab/OpenAeroStruct/tree/main), a practical implementation for structural optimization.
+* **Software implementations**:
+    - [OpenAeroStruct Examples](https://github.com/mdolab/OpenAeroStruct/tree/main)
+    -*[wing-structural-optimization-master project](./Aero-struct/softwares/wing-structural-optimization-master)
+
 
 ### [Wing Aspect Ratio](./Aspect%20ration)
 
