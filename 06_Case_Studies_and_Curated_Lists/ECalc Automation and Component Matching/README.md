@@ -35,10 +35,8 @@ To use these scripts, ensure you have the required Python packages installed (e.
 * `scipy`
 * `math`
 * `sympy`
-* `aerosandbox` (specifically `Airplane` and `OperatingPoint` for `Propulsion.py`)
+* `aerosandbox`
 * `re`
 * `glob`
 * `shutil`
-* (Potentially `openpyxl` for reading `.xlsx` files if not already handled by pandas)
-
-**Note:** The `calc.py` script requires a configured Selenium WebDriver and may need specific browser installations (e.g., Tor Browser as indicated in comments within `calc.py`) to function correctly with eCalc's website.
+* `openpyxl`
