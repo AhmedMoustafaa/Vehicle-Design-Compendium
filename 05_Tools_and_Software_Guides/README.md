@@ -41,7 +41,6 @@ XFLR5 is an analysis tool for airfoils, wings, and planes operating at low Reyno
 * **Key Guidelines:**
     * [Abbreviations.pdf](./XFLR5/Abbreviations.pdf)
     * [XFLR5 Guidelines.pdf](./XFLR5/XFLR5%20Guidelines.pdf)
-* **Software and Internal Documentation:**
-    * The `xflr5-6.10` folder contains the executable software and its own comprehensive internal `doc` directory with further technical details and figures. Consider exploring it directly for in-depth understanding.
+
 
 **Note:** This section will also house user-created tutorials and practical application guides for these and other tools.
