@@ -1,5 +1,9 @@
 here I will list some of the sections I liked in each reference. Some I will expand on or summarize in another notes.
 
+Refer to the [Topics To Know](./Topics%20to%20Know.md) For More Info
+
+
+
 # Classic Essential References
 ## 1. General Aviation Aircraft Design Applied Methods and Procedures
 Author: Gudmundsson
