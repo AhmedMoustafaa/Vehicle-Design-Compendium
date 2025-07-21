@@ -6,15 +6,15 @@ This repository serves as a curated collection of references, tutorials, notes, 
 
 ## Purpose and Scope
 
-The goal of this project is to centralize and organize a wide range of information, moving beyond just academic theory to include practical methodologies, software tools, and real-world considerations for UAV development. It covers key disciplines such as:
+This repository serves as a **curated collection** of resources for fixed-wing Unmanned Aerial Vehicle (UAV) design. It organizes:
 
-* **Aerodynamics & Flight Mechanics:** Understanding how UAVs fly.
-* **Propulsion Systems:** Selecting and integrating power plants.
-* **Structural Design & Materials:** Building robust and lightweight airframes.
-* **Avionics & Control Systems:** The brains and nervous system of the UAV.
-* **Design Methodologies:** The process of taking a concept to reality.
-* **Software Tools:** Utilizing industry-standard and open-source software for analysis and design.
-* **Regulations & Safety:** Navigating the operational landscape.
+* **Foundational textbooks**, covering classic, modern, and theoretical aspects of aircraft design.
+* **Theoretical notes and summaries**, providing distilled insights on core concepts.
+* **Research deep dives** into advanced topics, including detailed papers and specialized software implementations.
+* **Guides and documentation for software tools**, such as DATCOM and XFLR5.
+* **Practical applications and case studies**, showcasing the use of tools for analysis, optimization, and component matching.
+
+This resource is structured to provide a comprehensive learning and reference environment for fixed-wing UAV design.
 
 ## How to Use This Compendium
 
