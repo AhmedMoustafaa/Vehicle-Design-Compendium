@@ -1,6 +1,6 @@
-# Fixed-Wing UAV Design Compendium
+# Vehicle Design Compendium
 
-Welcome to the Fixed-Wing UAV Design Compendium!
+Welcome to the Vehicle Design Compendium!
 
 This repository serves as a curated collection of references, tutorials, notes, and practical resources dedicated to the comprehensive design of fixed-wing Unmanned Aerial Vehicles (UAVs). Whether you're a student, hobbyist, or professional, this compendium aims to provide a structured pathway to understanding and applying the principles of UAV design.
 
@@ -26,11 +26,7 @@ This compendium is structured to guide you from foundational knowledge to specia
 4.  **Deep Dive into Research:** For specific advanced topics and cutting-edge research, refer to the **[`04_Research_Deep_Dives`](./04_Research_Deep_Dives)** section, which includes relevant papers and associated notes.
 5.  **Master the Tools:** Learn how to utilize essential design and analysis software in the **[`05_Tools_and_Software_Guides`](./05_Tools_and_Software_Guides)** section, which includes documentation and practical usage notes.
 6.  **Find Examples and Lists:** The **[`06_Case_Studies_and_Curated_Lists`](./06_Case_Studies_and_Curated_Lists)** folder provides practical examples and curated lists of components or online resources.
-7.  **Understand Regulations:** Familiarize yourself with the necessary operational guidelines in **[`07_Regulations_and_Safety`](./07_Regulations_and_Safety)**.
 
-## Contribution
-
-This is a living project, and contributions are welcome! If you have resources to suggest, notes to share, or improvements to the structure, please refer to the [CONTRIBUTING.md](./00_Project_Meta/CONTRIBUTING.md) file.
 
 ## License
 
