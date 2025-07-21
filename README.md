@@ -20,7 +20,7 @@ This resource is structured to provide a comprehensive learning and reference en
 
 This compendium is structured to guide you from foundational knowledge to specialized topics. We recommend the following approach:
 
-1.  **Start with the Learning Path:** Begin your journey by exploring the **[Learning Path and Recommended Reading](./01_Introduction_and_Learning_Path/A_Learning_Path_and_Recommended_Reading.md))** guide. This document outlines key concepts and suggests a reading order for the foundational textbooks.
+1.  **Start with the Learning Path:** Begin your journey by exploring the **[Learning Path and Recommended Reading](./01_Introduction_and_Learning_Path/A_Learning_Path_and_Recommended_Reading.md)** guide. This document outlines key concepts and suggests a reading order for the foundational textbooks.
 2.  **Explore Theoretical Underpinnings:** Dive into the **[`02_Fundamental_Textbooks`](./02_Fundamental_Textbooks)** and **[`03_UAV_Specific_References`](./03_UAV_Specific_References)** folders for comprehensive academic resources.
 3.  **Review Theoretical Notes:** Consult the **[`03_Theoretical_Notes_and_Summaries`](./03_Theoretical_Notes_and_Summaries)** for distilled insights and personal summaries of complex topics.
 4.  **Deep Dive into Research:** For specific advanced topics and cutting-edge research, refer to the **[`04_Research_Deep_Dives`](./04_Research_Deep_Dives)** section, which includes relevant papers and associated notes.
