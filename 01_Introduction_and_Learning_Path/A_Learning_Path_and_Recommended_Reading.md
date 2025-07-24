@@ -10,9 +10,7 @@ Understanding the basic terminology and core components is crucial.
 
 * **Concepts to Know:**
     * Angles, Axes, and Different coordinate systems (Body, Wind, Stability Axis).
-* **Recommended Reading:**
-    * *Gudmundsson - General Aviation Aircraft Design*: Chapters covering basic aircraft geometry and coordinate systems (often found in introductory sections or appendices).
-    * *Etkins - Dynamics of Flight*: Introductory chapters on coordinate systems for flight mechanics.
+
 
 ### 2. Anatomy of Aircraft Components
 
